@@ -118,15 +118,12 @@ form button:hover {
   background: var(--primary-color);
 }
 
-form button:active {
-  background-color: var(--primary-color-light);
+.paragrafo-resultado,
+.bad {
+  background-color: rgb(109, 255, 182);
+  padding: 10px 20px;
 }
 
-#resposta {
-  display: none;
-  width: 100%;
-  height: 45px;
-  background-color: rgb(1, 255, 175);
-  color: rgb(0, 0, 0);
-  padding: 10px 5px;
+.bad {
+  background-color: rgb(255, 150, 150);
 }
