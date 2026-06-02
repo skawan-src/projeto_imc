@@ -77,4 +77,5 @@ function meuEscopo() {
     resultado.appendChild(parag); // Adiciona o elemento p como filho.
   }
 }
+
 meuEscopo();
