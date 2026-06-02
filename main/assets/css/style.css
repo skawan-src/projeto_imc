@@ -137,4 +137,9 @@ form button:hover {
     grid-template-columns: auto;
     text-align: center;
   }
+  
+  #resultado p {
+    font-size: .8rem;
+    font-weight: bold;
+  }
 }
